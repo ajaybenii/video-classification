@@ -1,0 +1,12 @@
+2023-11-17 12:35:48,266 [INFO]: Received video for classification: 1.mp4
+2023-11-17 12:36:03,459 [INFO]: Video 1.mp4 classified as real estate
+2023-11-17 15:09:13,409 [INFO]: Received video for classification: 1.mp4
+2023-11-17 15:09:27,933 [ERROR]: Error processing video 1.mp4: [WinError 32] The process cannot access the file because it is being used by another process: 'temp_video.mp4'
+2023-11-17 15:13:43,352 [INFO]: Received video for classification: 1.mp4
+2023-11-17 15:13:56,288 [INFO]: Video 1.mp4 classified as real estate
+2023-11-17 15:15:03,242 [INFO]: Received video for classification: 1.mp4
+2023-11-17 15:15:19,854 [INFO]: Video 1.mp4 classified as real estate
+2023-11-17 15:25:10,669 [INFO]: Received video for classification: 1.mp4
+2023-11-17 15:25:24,643 [INFO]: Video 1.mp4 classified as real estate
+2023-11-17 23:18:40,671 [INFO]: Received video for classification: 1.mp4
+2023-11-17 23:18:49,555 [INFO]: Video 1.mp4 classified as real estate
